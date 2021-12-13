@@ -1,0 +1,47 @@
+body{ background-color: lightyellow ;}
+a.nodec{ text-decoration:none; }
+a.hover{ color:red;}
+li em {color:  blue;}
+h1, em {color:  green;}
+ul {margin-left:  20px;}
+ul ul { font-size: .8em; }
+p{ color:red; }
+div {
+}
+.floated1{
+	float: left;
+	margin-left: 150px;
+	border-width: 1px;
+	border: 1px solid yellowgreen;
+}
+.floated2{
+	float: right;
+	margin-right: 150px;
+	border-width: 1px;
+	border: 1px solid yellowgreen;
+}
+div.float{
+	padding-left: 50%;
+}
+.background{
+	background-image: url("doggy.jpeg");
+    height: 1000px;
+    width: 1000px;
+    margin-top: 1px;
+    border-width: 1px;
+	border: 1px solid blue;
+}
+.insert{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	background-image: url("kitty.jpeg");
+	height: 900px;
+    width: 900px;
+	border-width: 1px;
+	border: 1px solid red;
+}
+
+
+
